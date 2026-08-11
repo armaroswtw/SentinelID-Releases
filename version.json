@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.3",
-    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.3/SentinelID.exe",
-    "sha256":  "729346715e15f03bbf0e648d54201da008586068148e203933dd7e97659e59ff",
-    "notes":  "Popup de mise a jour flottante supprimee|Installation disponible uniquement dans Announcements|Le badge INSTALL READY est maintenant cliquable"
+    "version":  "1.0.4",
+    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.4/SentinelID.exe",
+    "sha256":  "293fd51246e8645fa8297c7d65942bb0e4977aa593e628f4ade13d45a227e475",
+    "notes":  "Simple welcome announcement restored|Technical changelog removed from the app"
 }
