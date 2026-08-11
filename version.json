@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.0/SentinelID.exe",
-  "sha256": "a462f40a581318c2e12210cca8463d57dea88bf0b241dc4720ab08a046f4e00b",
-  "notes": "Premiere version publique de SentinelID"
+    "version":  "1.0.0",
+    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.0/SentinelID.exe",
+    "sha256":  "14d0e3da6851f0dd0b82433f86aa9f725ea261ab0a407a92fa96c95af10f81cd",
+    "notes":  "Premiere version publique de SentinelID avec mise a jour automatique securisee."
 }
