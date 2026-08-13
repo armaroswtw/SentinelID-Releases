@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.9",
-    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.9/SentinelID.exe",
-    "sha256":  "22f91af9f7d2268248f99910960ca25ed2ff2be157a114352140dd1eadb5d017",
-    "notes":  "Mise a jour du nom affiche dans le pied de page"
+    "version":  "1.0.10",
+    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.10/SentinelID.exe",
+    "sha256":  "333d9402e1c9ba11e380c0b347d5bc307c115744e769a29b971e10f9cdf1576c",
+    "notes":  "Nouveau logo yhn solution dans l interface et l icone Windows"
 }
