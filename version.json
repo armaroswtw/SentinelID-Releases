@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.7",
-    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.7/SentinelID.exe",
-    "sha256":  "a1e6763f51f940c5f7e23d1372f20be43f614e1c0d5dc06ab9a71afe832d2b57",
-    "notes":  "Ajout du guide Instructions et mise a jour du Permanent Spoofer"
+    "version":  "1.0.8",
+    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.8/SentinelID.exe",
+    "sha256":  "fddaf0b6beccb889543b146ff66f4b57134c79e82d66d7608e497a9a59b7242d",
+    "notes":  "Correction visuelle du defilement dans General Information"
 }
