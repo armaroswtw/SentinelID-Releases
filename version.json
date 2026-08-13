@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.8",
-    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.8/SentinelID.exe",
-    "sha256":  "fddaf0b6beccb889543b146ff66f4b57134c79e82d66d7608e497a9a59b7242d",
-    "notes":  "Correction visuelle du defilement dans General Information"
+    "version":  "1.0.9",
+    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.9/SentinelID.exe",
+    "sha256":  "22f91af9f7d2268248f99910960ca25ed2ff2be157a114352140dd1eadb5d017",
+    "notes":  "Mise a jour du nom affiche dans le pied de page"
 }
