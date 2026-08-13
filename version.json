@@ -1,6 +1,6 @@
 {
-    "version":  "1.0.5",
-    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.5/SentinelID.exe",
-    "sha256":  "b46c0a016df6f0192dfb67a5524e42bb7f092cc9f33b8b53444fda7ec1c7731a",
-    "notes":  "Discord icon rebuilt as a sharp Direct2D vector|Blue neon styling added|Pixelated raster scaling removed"
+    "version":  "1.0.6",
+    "url":  "https://github.com/armaroswtw/SentinelID-Releases/releases/download/v1.0.6/SentinelID.exe",
+    "sha256":  "c0fef73e5439e69cbd5bda6c12686a55d7cf8c7b709c496bda5d3d3ed897ffc1",
+    "notes":  "Standalone Discord icon restored|No background tile or border|Sharp Direct2D vector with subtle blue neon"
 }
